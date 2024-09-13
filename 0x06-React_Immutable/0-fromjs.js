@@ -1,9 +1,10 @@
-
 import { fromJS } from 'immutable';
 
 function getImmutableObject(object) {
   return fromJS(object);
 }
+
+export default { getImmutableObject };
 
 // Example usage
 const exampleObject = {

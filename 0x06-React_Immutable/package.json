@@ -16,5 +16,6 @@
 	},
 	"dependencies": {
 		"immutable": "^4.3.7"
-	}
+	},
+		"type": "module"
 }
